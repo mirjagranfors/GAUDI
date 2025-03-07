@@ -1,0 +1,1 @@
+from .vgae import VariationalGraphAutoEncoder
