@@ -2,7 +2,7 @@
 
 This repository contains an implementation of GAUDI. An example of how GAUDI is trained on Watts-Strogatz small-world graphs can be accessed at the following link:
 
-**[Training GAUDI on Watts-Strogatz Small-World Graphs](GAUDI_Watts_Strogatz.ipynb)
+[Training GAUDI on Watts-Strogatz Small-World Graphs](GAUDI_Watts_Strogatz.ipynb)
 
 ## Dependencies
 
